@@ -1,4 +1,4 @@
-//-----(Sk Devil by Sk Devil Inc.)-----\\
+//-----(Doge Bot by Sk Devil Inc.)-----\\
 //-----(Youtube Channel: Xeon)-----\\
 //-----(Whatsapp number: +380945798078)-----\\
 //-----(Wanna reupload??? Can, but give proper credit)----\\
@@ -341,7 +341,7 @@ return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a
              alpha.relayWAMessage(res)
         }
         const grupinv = (teks) => {
-        	grup = alpha.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": 'https://chat.whatsapp.com/G3a3AQndqS5J45eD7zznXF', "groupName": `Xeon Bot Inc.`, "footerText": "*𝐒𝐤 𝐃𝐞𝐯𝐢𝐥*", "jpegThumbnail": ofrply, "caption": teks}}, {quoted:finv})
+        	grup = alpha.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": 'https://chat.whatsapp.com/G3a3AQndqS5J45eD7zznXF', "groupName": `Sk Devil Inc.`, "footerText": "*𝐒𝐤 𝐃𝐞𝐯𝐢𝐥*", "jpegThumbnail": ofrply, "caption": teks}}, {quoted:finv})
             alpha.relayWAMessage(grup)
         }
 		idttt = []
@@ -575,7 +575,7 @@ const ftex = {
                 },
 	 message: { 
 		"extendedTextMessage": {
-                 "text": `*${botName} by Xeon Bot Inc.*`,
+                 "text": `*${botName} by Sk Devil Inc.*`,
                  "title": `_${botName}_`,
                  'jpegThumbnail': gambarrr
                         }
@@ -3212,7 +3212,7 @@ NOTE : _DO NOT SELL BOT SCRIPT_
 ──────────────────
 *👇SCRIPT GITHUB LINK👇*
 https://github.com/SKDEVIL/SERV2
-_BASE : Sk Bot Inc._
+_BASE : Sk Devil Inc._
 _ORI SCRIPT : 𝐒𝐤 𝐃𝐞𝐯𝐢𝐥 Version 2_
 _OWNER : ${NamaOwner}_
 ⍟ ────────────────── ⍟`
