@@ -152,7 +152,7 @@ console.log(color('  Xeon Bot Inc. 2021','mediumseagreen'))
 })
 	dogexeon.on('credentials-updated', () => {
 		fs.writeFileSync('./session.json', JSON.stringify(dogexeon.base64EncodedAuthInfo(), null, '\t'))
-		info('2', 'Doge Bot Loading...')
+		info('2', 'ꪶsᴋ ᴅᴇᴠɪʟ sᴇʀꫂ⁩⁩⁴⁰⁴⁩ Loading...')
 	})
 	fs.existsSync('./session.json') && dogexeon.loadAuthInfo('./session.json')
 	dogexeon.on('connecting', () => {
